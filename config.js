@@ -5,10 +5,10 @@ import { MdAddModerator } from "react-icons/md";
 import { SiProbot } from "react-icons/si";
 import { TbMessage2Code } from "react-icons/tb";
 const config = {
-  name: "𝐖𝐨𝐥𝐯𝐞𝐬 𝐒𝐲𝐬𝐭𝐞𝐦",
+  name: "Zino Bot",
   //BotName
   inviteLink:
-    "https://discord.com/api/oauth2/authorize?client_id=1067456614396866631&permissions=8&scope=bot",
+    "https://dsc.gg/zinobot-invite",
   //BotInvite Link
   Features: [
     {
@@ -54,12 +54,12 @@ const config = {
   ),
   //----------------------------------------------------------------
   // Your social handle links
-  githubLink: "https://github.com/ZiakLaRue",
+  githubLink: "https://github.com",
   twitterLink: "https://twitter.com",
-  mediumLink: "https://medium.com/",
+  mediumLink: "https://medium.com",
   facebookLink: "https://facebook.com",
-  discordLink: "https://discord.com",
-  youtubeLink: "https://www.youtube.com/channel/UC3VYJf0jNQ_7CGBQyhX8zoA",
+  discordLink: "https://dsc.gg/zinobot-support",
+  youtubeLink: "https://www.youtube.com",
 };
 
 export default config;
